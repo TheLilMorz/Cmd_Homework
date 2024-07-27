@@ -1,0 +1,9 @@
+1.  cd Desktop    mkdir Homework
+
+2.  cd Desktop    netstat > network.txt
+
+3.  cd Dekstop    findstr /R "[:][0]*8008>" new_directory\netstat_output.txt
+
+4.  cd Desktop    cd Homework    del network.txt
+
+5. go to Deaktop create new txt file than change the .txt to .bat      in side the file: mkdir Homework netstat > Homework\network.txt findstr /R "[:][0]*80>" Homework\network.txt del Homework\network.txt pause
